@@ -1,0 +1,30 @@
+.prince-img {
+    width: 45%;
+    max-width: 500px;
+}
+
+.prince-quote {
+    width: 45%;
+    max-width: 500px;
+    font-size: 1.3rem;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+.highlight-text {
+    font-weight: bold;
+    background-color: orange;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.red-text {
+    font-weight: bold;
+    color: red;
+}
